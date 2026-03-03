@@ -1,6 +1,6 @@
 # SRDLN — Salient Retinopathy Deep Learning Network
 
-> An end-to-end deep learning system for automated Diabetic Retinopathy (DR) detection and grading from retinal fundus photographs.
+> An end-to-end deep learning system for automated Diabetic Retinopathy (DR) detection and grading from retinal fundus photographs. Trained using GCP.
 
 ---
 
