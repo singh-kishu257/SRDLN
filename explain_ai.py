@@ -1,8 +1,10 @@
 """Explainability module using Grad-CAM for SRDLN-DR-Net.
 
 Purpose:
-- Provide visual evidence (saliency/attention) for model predictions.
-- Highlight clinically relevant regions (hemorrhages/exudates) to support review.
+- Leverages Pytorch GradCAM to :
+   - Provide visual evidence (saliency/attention) for model predictions.
+   - Highlight clinically relevant regions (hemorrhages/exudates) to support review.
+
 """
 
 from __future__ import annotations
